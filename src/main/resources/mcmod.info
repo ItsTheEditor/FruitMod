@@ -1,7 +1,7 @@
 [
 {
-  "modid": "fruit",
-  "name": "fruit mod",
+  "modid": "examplemod",
+  "name": "Example Mod",
   "description": "Example placeholder mod.",
   "version": "${version}",
   "mcversion": "${mcversion}",
