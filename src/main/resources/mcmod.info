@@ -1,13 +1,13 @@
 [
 {
-  "modid": "fruitmod",
-  "name": "Fruitmod",
-  "description": "A mod that adds fruits like cherrys.",
+  "modid": "examplemod",
+  "name": "Example Mod",
+  "description": "Example placeholder mod.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["editspace"],
+  "authorList": ["ExampleDude"],
   "credits": "The Forge and FML guys, for making this example",
   "logoFile": "",
   "screenshots": [],
