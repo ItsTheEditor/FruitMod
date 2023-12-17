@@ -1,7 +1,7 @@
 package com.fruitmod.Fruitmod.proxy;
 
 import com.fruitmod.Fruitmod.Config;
-import com.fruitmod.fruitmod.items.cherry;
+import com.fruitmod.Fruitmod.items.cherry;
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
 import net.minecraftforge.common.config.Configuration;

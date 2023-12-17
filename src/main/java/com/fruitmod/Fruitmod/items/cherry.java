@@ -1,7 +1,8 @@
-package com.fruitmod.fruitmod.items;
+package com.fruitmod.Fruitmod.items;
 
-import com.fruitmod.fruitmod.fruitmod;
 
+
+import com.fruitmod.Fruitmod.Fruitmod;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.item.Item;
 import net.minecraftforge.client.model.ModelLoader;
@@ -13,7 +14,7 @@ public class cherry extends Item {
 
     public cherry(){
         setRegistryName("cherry");
-        setUnlocalizedName(fruitmod.MODID + ".cherry");
+        setUnlocalizedName(Fruitmod.MODID + ".cherry");
 
     }
     @SideOnly(Side.CLIENT)
