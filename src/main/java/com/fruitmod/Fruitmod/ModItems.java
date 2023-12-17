@@ -1,11 +1,11 @@
-package com.fruitmod.Fruitmod;
+package com.fruitmod.fruitmod;
 import net.minecraftforge.fml.common.registry.GameRegistry;
-import com.fruitmod.Fruitmod.items.cherry;
+import com.fruitmod.fruitmod.items.cherry;
 import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
 
 public class ModItems {
-    @GameRegistry.ObjectHolder("Fruitmod:cherry")
+    @GameRegistry.ObjectHolder("fruitmod:cherry")
     public static cherry cherry;
 
     @SideOnly(Side.CLIENT)

@@ -1,7 +1,7 @@
 package com.fruitmod.Fruitmod;
 
 import com.fruitmod.Fruitmod.proxy.CommonProxy;
-import net.minecraft.init.Blocks;
+import net.minecraft.init.Items;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
 import net.minecraftforge.fml.common.SidedProxy;
