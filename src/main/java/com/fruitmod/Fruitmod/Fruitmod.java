@@ -28,6 +28,7 @@ public class Fruitmod
     {
         logger = event.getModLog();
         proxy.preInit(event);
+        System.out.println(NAME + "is loading");
     }
 
     @EventHandler
