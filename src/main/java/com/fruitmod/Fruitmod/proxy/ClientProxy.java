@@ -1,7 +1,7 @@
 package com.fruitmod.Fruitmod.proxy;
 
 import com.fruitmod.Fruitmod.proxy.CommonProxy;
-import com.fruitmod.fruitmod.ModItems;
+import com.fruitmod.Fruitmod.ModItems;
 import net.minecraftforge.client.event.ModelRegistryEvent;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
