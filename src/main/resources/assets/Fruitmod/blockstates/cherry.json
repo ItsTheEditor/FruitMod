@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "inventory": {"model": "Fruitmod:item/cherry"}
+  }
+}
