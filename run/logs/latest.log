@@ -1,26 +1,38 @@
-[18:02:51] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[18:02:51] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[18:02:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
-[18:02:51] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[18:02:51] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_392, running on Mac OS X:x86_64:13.6.1, installed at /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre
-[18:02:51] [main/ERROR] [FML]: Apache Maven library folder was not in the format expected. Using default libraries directory.
-[18:02:51] [main/ERROR] [FML]: Full: /Users/ariv/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.5.3/7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4/maven-artifact-3.5.3.jar
-[18:02:51] [main/ERROR] [FML]: Trimmed: /users/ariv/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.5.3/
-[18:02:51] [main/INFO] [FML]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
-[18:02:51] [main/INFO] [FML]: Detected deobfuscated environment, loading log configs for colored console logs.
-[18:02:52] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin), we are in deobf and it's a forge core plugin
-[18:02:52] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin), we are in deobf and it's a forge core plugin
-[18:02:52] [main/INFO] [FML]: Searching /Users/ariv/Documents/GitHub/fruitmod/run/./mods for mods
-[18:02:52] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[18:02:52] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[18:02:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[18:02:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[18:02:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:02:55] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
-[18:02:55] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:02:55] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[18:02:55] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[18:02:55] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[18:02:55] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
-[18:02:57] [Client thread/INFO] [net.minecraft.client.Minecraft]: Setting user: Player339
-[18:03:02] [Client thread/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.2
+[00:04:36] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 985152ms behind, skipping 19703 tick(s)
+[00:22:38] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 948586ms behind, skipping 18971 tick(s)
+[00:34:13] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2048ms behind, skipping 40 tick(s)
+[00:37:12] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2328ms behind, skipping 46 tick(s)
+[00:40:58] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2300ms behind, skipping 46 tick(s)
+[01:19:55] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5188ms behind, skipping 103 tick(s)
+[01:38:37] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 915530ms behind, skipping 18310 tick(s)
+[01:55:35] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 967604ms behind, skipping 19352 tick(s)
+[03:12:53] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 990374ms behind, skipping 19807 tick(s)
+[05:45:10] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5637702ms behind, skipping 112754 tick(s)
+[06:01:22] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 922643ms behind, skipping 18452 tick(s)
+[07:34:53] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5562200ms behind, skipping 111244 tick(s)
+[07:34:54] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Time ran backwards! Did the system time change?
+[08:24:17] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2912037ms behind, skipping 58240 tick(s)
+[09:03:18] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2049ms behind, skipping 40 tick(s)
+[09:03:35] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3565ms behind, skipping 71 tick(s)
+[09:41:23] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 1019490ms behind, skipping 20389 tick(s)
+[11:29:30] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 6438674ms behind, skipping 128773 tick(s)
+[11:29:30] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Time ran backwards! Did the system time change?
+[13:12:07] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 6106477ms behind, skipping 122129 tick(s)
+[14:14:23] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3685250ms behind, skipping 73705 tick(s)
+[15:55:03] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5989157ms behind, skipping 119783 tick(s)
+[15:55:22] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 9350ms behind, skipping 187 tick(s)
+[15:55:41] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[15:55:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[15:55:42] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[15:55:42] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[15:55:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Player339 lost connection: Disconnected
+[15:55:42] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player339 left the game
+[15:55:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Stopping singleplayer server as player logged out
+[15:55:42] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[15:55:42] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[15:55:42] [Server thread/INFO] [FML]: Unloading dimension 0
+[15:55:43] [Server thread/INFO] [FML]: Applying holder lookups
+[15:55:43] [Server thread/INFO] [FML]: Holder lookups applied
+[15:55:45] [Client thread/INFO] [net.minecraft.client.Minecraft]: Stopping!
+[15:55:45] [Client thread/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
+[15:55:45] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com
