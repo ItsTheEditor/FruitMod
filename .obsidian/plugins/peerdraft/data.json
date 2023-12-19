@@ -1,0 +1,7 @@
+{
+  "basePath": "https://www.peerdraft.app/cm/",
+  "name": "editspace",
+  "signaling": [
+    "wss://signal.peerdraft.app"
+  ]
+}
