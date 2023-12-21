@@ -2,7 +2,6 @@ package com.fruitmod.Fruitmod;
 
 
 import com.fruitmod.Fruitmod.proxy.CommonProxy;
-import net.minecraft.item.Item;
 import net.minecraftforge.client.event.ModelRegistryEvent;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
@@ -42,19 +41,19 @@ public class Fruitmod
     public void preInit(FMLPreInitializationEvent event)
     {
         logger = event.getModLog();
-        proxy.preInit(event);
+
         System.out.println(NAME + "is loading");
     }
 
     @EventHandler
     public void init(FMLInitializationEvent event)
     {
-        proxy.init(event);
+
     }
 
     @EventHandler
     public void postInit(FMLPostInitializationEvent event)
     {
-        proxy.postInit(event);
+
     }
 }
