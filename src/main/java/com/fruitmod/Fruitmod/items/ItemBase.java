@@ -21,11 +21,7 @@ public class ItemBase extends Item {
             Fruitmod.proxy.registerItemRenderer(this, 0, name);
         }
 
-        @Override
-        public ItemBase setCreativeTab(CreativeTabs tab) {
-            super.setCreativeTab(tab);
-            return this;
-        }
+        
 
     }
 
