@@ -1,3 +1,8 @@
+Build: 1.12.2-14.23.5.2860 - Mon Dec 13 04:36:38 GMT 2021
+	1904167+dualspiral:
+		Don't download log4j-slf4j18-impl (#8293)
+
+=========
 Build: 1.12.2-14.23.5.2859 - Sat Dec 11 14:43:19 GMT 2021
 	sizableshrimp:
 		Update Installer to 2.1.+ and fix logging on server (#8286)
