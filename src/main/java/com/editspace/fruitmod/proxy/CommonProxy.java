@@ -38,7 +38,7 @@ public class CommonProxy {
     }
 
     @Mod.EventBusSubscriber(Side.CLIENT)
-    public class ClientProxy extends CommonProxy {
+    public static class ClientProxy extends CommonProxy {
         @Override
         public void preInit(FMLPreInitializationEvent event) {
             super.preInit(event);
@@ -50,7 +50,7 @@ public class CommonProxy {
         }
     }
 
-    public class ServerProxy extends CommonProxy{
+    public static class ServerProxy extends CommonProxy{
 
     }
 

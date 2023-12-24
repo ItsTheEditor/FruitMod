@@ -1,47 +1,47 @@
-[13:53:04] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[13:53:04] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[13:53:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
-[13:53:04] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[13:53:04] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_392, running on Mac OS X:x86_64:13.6.1, installed at /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre
-[13:53:04] [main/ERROR] [FML]: Apache Maven library folder was not in the format expected. Using default libraries directory.
-[13:53:04] [main/ERROR] [FML]: Full: /Users/ariv/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.5.3/7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4/maven-artifact-3.5.3.jar
-[13:53:04] [main/ERROR] [FML]: Trimmed: /users/ariv/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.5.3/
-[13:53:04] [main/INFO] [FML]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
-[13:53:04] [main/INFO] [FML]: Detected deobfuscated environment, loading log configs for colored console logs.
-[13:53:05] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin), we are in deobf and it's a forge core plugin
-[13:53:05] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin), we are in deobf and it's a forge core plugin
-[13:53:05] [main/INFO] [FML]: Searching /Users/ariv/Documents/GitHub/fruitmod/run/./mods for mods
-[13:53:05] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[13:53:05] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[13:53:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[13:53:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[13:53:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[13:53:10] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
-[13:53:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[13:53:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[13:53:10] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[13:53:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[13:53:10] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
-[13:53:12] [Client thread/INFO] [net.minecraft.client.Minecraft]: Setting user: Player507
-[13:53:16] [Client thread/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.2
-[13:53:17] [Client thread/INFO] [FML]: -- System Details --
+[13:59:09] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[13:59:09] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[13:59:09] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[13:59:09] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[13:59:09] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_392, running on Mac OS X:x86_64:13.6.1, installed at /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre
+[13:59:09] [main/ERROR] [FML]: Apache Maven library folder was not in the format expected. Using default libraries directory.
+[13:59:09] [main/ERROR] [FML]: Full: /Users/ariv/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.5.3/7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4/maven-artifact-3.5.3.jar
+[13:59:09] [main/ERROR] [FML]: Trimmed: /users/ariv/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.5.3/
+[13:59:09] [main/INFO] [FML]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[13:59:09] [main/INFO] [FML]: Detected deobfuscated environment, loading log configs for colored console logs.
+[13:59:10] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin), we are in deobf and it's a forge core plugin
+[13:59:10] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin), we are in deobf and it's a forge core plugin
+[13:59:10] [main/INFO] [FML]: Searching /Users/ariv/Documents/GitHub/fruitmod/run/./mods for mods
+[13:59:10] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:59:10] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[13:59:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:59:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:59:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:59:13] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[13:59:13] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:59:13] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[13:59:13] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[13:59:13] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[13:59:13] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[13:59:15] [Client thread/INFO] [net.minecraft.client.Minecraft]: Setting user: Player775
+[13:59:19] [Client thread/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.2
+[13:59:19] [Client thread/INFO] [FML]: -- System Details --
 Details:
 	Minecraft Version: 1.12.2
 	Operating System: Mac OS X (x86_64) version 13.6.1
 	Java Version: 1.8.0_392, Temurin
 	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Temurin
-	Memory: 469263296 bytes (447 MB) / 602406912 bytes (574 MB) up to 1908932608 bytes (1820 MB)
+	Memory: 463136784 bytes (441 MB) / 600309760 bytes (572 MB) up to 1908932608 bytes (1820 MB)
 	JVM Flags: 0 total; 
 	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
 	FML: 
 	Loaded coremods (and transformers): 
 	GL info: ' Vendor: 'Intel Inc.' Version: '2.1 INTEL-20.6.4' Renderer: 'Intel(R) Iris(TM) Plus Graphics OpenGL Engine'
-[13:53:17] [Client thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[13:53:17] [Client thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[13:53:17] [Client thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[13:53:17] [Client thread/INFO] [FML]: Replaced 1227 ore ingredients
-[13:53:18] [Client thread/INFO] [FML]: Searching /Users/ariv/Documents/GitHub/fruitmod/run/./mods for mods
-[13:53:19] [Client thread/ERROR] [FML]: Unable to read a class file correctly
+[13:59:19] [Client thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[13:59:19] [Client thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[13:59:20] [Client thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[13:59:20] [Client thread/INFO] [FML]: Replaced 1227 ore ingredients
+[13:59:20] [Client thread/INFO] [FML]: Searching /Users/ariv/Documents/GitHub/fruitmod/run/./mods for mods
+[13:59:21] [Client thread/ERROR] [FML]: Unable to read a class file correctly
 java.lang.IllegalArgumentException: null
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
@@ -70,7 +70,7 @@ java.lang.IllegalArgumentException: null
 	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_392]
 	at net.minecraftforge.legacydev.Main.start(Main.java:86) [legacydev-0.2.3.1-fatjar.jar:0.2.3.1+4+372be23]
 	at net.minecraftforge.legacydev.MainClient.main(MainClient.java:29) [legacydev-0.2.3.1-fatjar.jar:0.2.3.1+4+372be23]
-[13:53:19] [Client thread/ERROR] [FML]: There was a problem reading the entry module-info.class in the jar /Users/ariv/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-util/6.2/a9690730f92cc79eeadc20e400ebb41eccce10b1/asm-util-6.2.jar - probably a corrupt zip
+[13:59:21] [Client thread/ERROR] [FML]: There was a problem reading the entry module-info.class in the jar /Users/ariv/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-util/6.2/a9690730f92cc79eeadc20e400ebb41eccce10b1/asm-util-6.2.jar - probably a corrupt zip
 net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
 
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
@@ -103,7 +103,7 @@ Caused by: java.lang.IllegalArgumentException
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
 	... 23 more
-[13:53:19] [Client thread/WARN] [FML]: Zip file asm-util-6.2.jar failed to read properly, it will be ignored
+[13:59:21] [Client thread/WARN] [FML]: Zip file asm-util-6.2.jar failed to read properly, it will be ignored
 net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
 
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
@@ -136,7 +136,7 @@ Caused by: java.lang.IllegalArgumentException
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
 	... 23 more
-[13:53:19] [Client thread/ERROR] [FML]: Unable to read a class file correctly
+[13:59:21] [Client thread/ERROR] [FML]: Unable to read a class file correctly
 java.lang.IllegalArgumentException: null
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
@@ -165,7 +165,7 @@ java.lang.IllegalArgumentException: null
 	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_392]
 	at net.minecraftforge.legacydev.Main.start(Main.java:86) [legacydev-0.2.3.1-fatjar.jar:0.2.3.1+4+372be23]
 	at net.minecraftforge.legacydev.MainClient.main(MainClient.java:29) [legacydev-0.2.3.1-fatjar.jar:0.2.3.1+4+372be23]
-[13:53:19] [Client thread/ERROR] [FML]: There was a problem reading the entry module-info.class in the jar /Users/ariv/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/6.2/61570e046111559f38d4e0e580c005f75988c0a6/asm-tree-6.2.jar - probably a corrupt zip
+[13:59:21] [Client thread/ERROR] [FML]: There was a problem reading the entry module-info.class in the jar /Users/ariv/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/6.2/61570e046111559f38d4e0e580c005f75988c0a6/asm-tree-6.2.jar - probably a corrupt zip
 net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
 
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
@@ -198,7 +198,7 @@ Caused by: java.lang.IllegalArgumentException
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
 	... 23 more
-[13:53:19] [Client thread/WARN] [FML]: Zip file asm-tree-6.2.jar failed to read properly, it will be ignored
+[13:59:21] [Client thread/WARN] [FML]: Zip file asm-tree-6.2.jar failed to read properly, it will be ignored
 net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
 
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
@@ -231,7 +231,7 @@ Caused by: java.lang.IllegalArgumentException
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
 	... 23 more
-[13:53:19] [Client thread/ERROR] [FML]: Unable to read a class file correctly
+[13:59:21] [Client thread/ERROR] [FML]: Unable to read a class file correctly
 java.lang.IllegalArgumentException: null
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
@@ -260,7 +260,7 @@ java.lang.IllegalArgumentException: null
 	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_392]
 	at net.minecraftforge.legacydev.Main.start(Main.java:86) [legacydev-0.2.3.1-fatjar.jar:0.2.3.1+4+372be23]
 	at net.minecraftforge.legacydev.MainClient.main(MainClient.java:29) [legacydev-0.2.3.1-fatjar.jar:0.2.3.1+4+372be23]
-[13:53:19] [Client thread/ERROR] [FML]: There was a problem reading the entry module-info.class in the jar /Users/ariv/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/6.2/1b6c4ff09ce03f3052429139c2a68e295cae6604/asm-6.2.jar - probably a corrupt zip
+[13:59:21] [Client thread/ERROR] [FML]: There was a problem reading the entry module-info.class in the jar /Users/ariv/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/6.2/1b6c4ff09ce03f3052429139c2a68e295cae6604/asm-6.2.jar - probably a corrupt zip
 net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
 
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
@@ -293,7 +293,7 @@ Caused by: java.lang.IllegalArgumentException
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
 	... 23 more
-[13:53:19] [Client thread/WARN] [FML]: Zip file asm-6.2.jar failed to read properly, it will be ignored
+[13:59:21] [Client thread/WARN] [FML]: Zip file asm-6.2.jar failed to read properly, it will be ignored
 net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
 
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
@@ -326,7 +326,7 @@ Caused by: java.lang.IllegalArgumentException
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
 	... 23 more
-[13:53:19] [Client thread/ERROR] [FML]: Unable to read a class file correctly
+[13:59:21] [Client thread/ERROR] [FML]: Unable to read a class file correctly
 java.lang.IllegalArgumentException: null
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
@@ -355,7 +355,7 @@ java.lang.IllegalArgumentException: null
 	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_392]
 	at net.minecraftforge.legacydev.Main.start(Main.java:86) [legacydev-0.2.3.1-fatjar.jar:0.2.3.1+4+372be23]
 	at net.minecraftforge.legacydev.MainClient.main(MainClient.java:29) [legacydev-0.2.3.1-fatjar.jar:0.2.3.1+4+372be23]
-[13:53:19] [Client thread/ERROR] [FML]: There was a problem reading the entry module-info.class in the jar /Users/ariv/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/6.2/c7d9a90d221cbb977848d2c777eb3aa7637e89df/asm-analysis-6.2.jar - probably a corrupt zip
+[13:59:21] [Client thread/ERROR] [FML]: There was a problem reading the entry module-info.class in the jar /Users/ariv/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/6.2/c7d9a90d221cbb977848d2c777eb3aa7637e89df/asm-analysis-6.2.jar - probably a corrupt zip
 net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
 
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
@@ -388,7 +388,7 @@ Caused by: java.lang.IllegalArgumentException
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
 	... 23 more
-[13:53:19] [Client thread/WARN] [FML]: Zip file asm-analysis-6.2.jar failed to read properly, it will be ignored
+[13:59:21] [Client thread/WARN] [FML]: Zip file asm-analysis-6.2.jar failed to read properly, it will be ignored
 net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
 
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
@@ -421,11 +421,11 @@ Caused by: java.lang.IllegalArgumentException
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
 	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
 	... 23 more
-[13:53:19] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 250165094 nanos
-[13:53:19] [Client thread/INFO] [FML]: Forge Mod Loader has identified 5 mods to load
-[13:53:20] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, editspace] at CLIENT
-[13:53:20] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, editspace] at SERVER
-[13:53:20] [Client thread/ERROR] [FML]: An error occurred trying to load a proxy into com.editspace.fruitmod.fruitmod.proxy
+[13:59:21] [Client thread/INFO] [FML]: Forge Mod Loader has identified 5 mods to load
+[13:59:22] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 189616123 nanos
+[13:59:22] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, editspace] at CLIENT
+[13:59:22] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, editspace] at SERVER
+[13:59:23] [Client thread/ERROR] [FML]: An error occurred trying to load a proxy into com.editspace.fruitmod.fruitmod.proxy
 java.lang.ClassNotFoundException: editspace.fruitmod.proxy.ClientProxy
 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) ~[?:1.8.0_392]
@@ -480,10 +480,10 @@ java.lang.ClassNotFoundException: editspace.fruitmod.proxy.ClientProxy
 Caused by: java.lang.NullPointerException
 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182) ~[launchwrapper-1.12.jar:?]
 	... 49 more
-[13:53:21] [Client thread/INFO] [STDOUT]: [net.minecraft.init.Bootstrap:printToSYSOUT:553]: ---- Minecraft Crash Report ----
-// Sorry :(
+[13:59:23] [Client thread/INFO] [STDOUT]: [net.minecraft.init.Bootstrap:printToSYSOUT:553]: ---- Minecraft Crash Report ----
+// Daisy, daisy...
 
-Time: 12/24/23 1:53 PM
+Time: 12/24/23 1:59 PM
 Description: There was a severe problem during mod loading that has caused the game to fail
 
 net.minecraftforge.fml.common.LoaderException: java.lang.ClassNotFoundException: editspace.fruitmod.proxy.ClientProxy
@@ -554,7 +554,7 @@ Details:
 	Operating System: Mac OS X (x86_64) version 13.6.1
 	Java Version: 1.8.0_392, Temurin
 	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Temurin
-	Memory: 371947400 bytes (354 MB) / 607125504 bytes (579 MB) up to 1908932608 bytes (1820 MB)
+	Memory: 370167328 bytes (353 MB) / 605028352 bytes (577 MB) up to 1908932608 bytes (1820 MB)
 	JVM Flags: 0 total; 
 	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
 	FML: MCP 9.42 Powered by Forge 14.23.5.2860 5 mods loaded, 5 mods active
@@ -570,4 +570,4 @@ Details:
 
 	Loaded coremods (and transformers): 
 	GL info: ' Vendor: 'Intel Inc.' Version: '2.1 INTEL-20.6.4' Renderer: 'Intel(R) Iris(TM) Plus Graphics OpenGL Engine'
-[13:53:21] [Client thread/INFO] [STDOUT]: [net.minecraft.init.Bootstrap:printToSYSOUT:553]: #@!@# Game crashed! Crash report saved to: #@!@# /Users/ariv/Documents/GitHub/fruitmod/run/./crash-reports/crash-2023-12-24_13.53.21-client.txt
+[13:59:23] [Client thread/INFO] [STDOUT]: [net.minecraft.init.Bootstrap:printToSYSOUT:553]: #@!@# Game crashed! Crash report saved to: #@!@# /Users/ariv/Documents/GitHub/fruitmod/run/./crash-reports/crash-2023-12-24_13.59.23-client.txt
