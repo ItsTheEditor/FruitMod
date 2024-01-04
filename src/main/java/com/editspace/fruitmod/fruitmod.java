@@ -1,6 +1,7 @@
 package com.editspace.fruitmod;
 
 import com.editspace.fruitmod.proxy.CommonProxy;
+import com.editspace.fruitmod.util.Reference;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
 import net.minecraftforge.fml.common.SidedProxy;
@@ -16,7 +17,7 @@ public class fruitmod
     public static final String NAME = "Fruit mod";
     public static final String VERSION = "0.0.1";
 
-    @SidedProxy(clientSide = "editspace.fruitmod.proxy.ClientProxy", serverSide = "editspace.fruitmod.proxy.ServerProxy")
+    @SidedProxy(clientSide = Reference.CLIENT_PROXY_CLASS, serverSide = Reference.COMMON_PROXY_CLASS)
     public static CommonProxy proxy;
 
     @Mod.Instance
@@ -28,17 +29,17 @@ public class fruitmod
     public void preInit(FMLPreInitializationEvent event)
     {
         logger = event.getModLog();
-        proxy.preInit(event);
+
     }
 
     @EventHandler
     public void init(FMLInitializationEvent event)
     {
-        proxy.init(event);
+
     }
 
     @EventHandler
     public void postInit(FMLPostInitializationEvent event){
-        proxy.postInit(event);
+
     }
 }
